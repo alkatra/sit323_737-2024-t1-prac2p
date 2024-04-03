@@ -1,0 +1,15 @@
+{
+  "name": "sit323_737-2024-t1-prac2p",
+  "version": "1.0.0",
+  "description": "Assignment for Task 2.1P",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "220010464-sagar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
